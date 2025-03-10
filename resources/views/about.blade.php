@@ -30,7 +30,7 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
-<h1>ini contoh</h1>
-<h2>ini contoh</h2>
+<h1>ini contoh fajar</h1>
+<h2>ini contoh fajar</h2>
 </body>
 </html>
